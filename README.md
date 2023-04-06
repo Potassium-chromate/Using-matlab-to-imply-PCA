@@ -71,7 +71,7 @@ The script will generate a figure with six subplots:
 ### Choose the two bands with the highest and second-highest eigenvalues. 
 ![Alt Text](https://github.com/Potassium-chromate/Using-matlab-to-imply-PCA/blob/main/Picture/main2/Compare_eigenvalue_example1.png)
 ### Use grayscale images to visualize the differences more clearly. 
-![Alt Text](https://github.com/Potassium-chromate/Using-matlab-to-imply-PCA/blob/main/Picture/main2/Compare_eigenvalue_example1.png)
+![Alt Text](https://github.com/Potassium-chromate/Using-matlab-to-imply-PCA/blob/main/Picture/main2/Compare_gray_example1.png)
 
 ## License
 + This project is licensed under the MIT License
